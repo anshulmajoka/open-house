@@ -11,13 +11,13 @@ export default function PrivacyPage() {
       <p className="mt-4 text-sm text-neutral-500">Placeholder for phase 1. Not legal advice.</p>
       <div className="mt-8 space-y-4 text-sm leading-7 text-neutral-700">
         <p>
-          This preview does not ask you to create an account. It does not use a database. Contact, sell, and partner forms run in your browser and are discarded when you leave or refresh the page.
+          This preview does not ask you to create an account. It does not use a database. Contact, sell, and partner forms run in your browser and are discarded when you leave or refresh the page. The chat button is different: it emails your name, email, phone, and message to the Open House team so someone can reply. That message is not stored in a database on this site.
         </p>
         <p>
           We do not set tracking cookies for this phase. Your browser may still store whatever it needs to load the site. Photos are requested from Unsplash when a page loads.
         </p>
         <p>
-          If a later version stores enquiries, this page will say what is collected, why, and how long it is kept. Until then, call or email if you want a conversation that a person will actually receive.
+          If a later version stores enquiries, this page will say what is collected, why, and how long it is kept. Call or email if you want to reach a person without using the chat button.
         </p>
       </div>
     </article>
